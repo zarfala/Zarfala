@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm programmer
 
 # 🔎 My Stats
-[![Zarfala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarfala&show_icons=true&theme=)](https://github.com/anuraghazra/github-readme-stats)
+[![Zarfala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarfala&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- https://www.zarfala.com/ --->
 <!--- 👯 I’m looking to collaborate on ... --->
