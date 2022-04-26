@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Deluxetry
 - 🌱 I’m currently learning Python, TypeScript, JavaScript and others
 - 💬 Ask me about Projects, businesses, communities and more
-- 📫 How to reach me [Discord](https://www.discord.com/invite/yNFM2EnWWx), [Twitter](hhtps://www.twitter.com/Zarfala), [My Site](#) 
+- 📫 How to reach me [Discord](https://www.discord.com/invite/yNFM2EnWWx), [Twitter](htps://www.twitter.com/Zarfala), [My Site](#) 
 - 😄 Pronouns: Zarfala
 - ⚡ Fun fact: I'm programmer
 
